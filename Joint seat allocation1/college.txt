@@ -1,0 +1,30 @@
+IITMadras,CSE 2 1
+IITMadras,MECH 2 2
+IITMadras,CIVIL 2 3 
+IITMadras,AIDS 2 4
+IITBombay,CSE 2 5
+IITBombay,IT 2 6
+IITBombay,ECE 2 7
+IITBombay,EEE 2 8
+IITGuwahati,BIOTECH 2 9
+IITGuwahati,IT 2 10
+IITGuwahati,ECE 2 11
+IITGuwahati,EEE 2 12
+IITDelhi,MECH 2 13
+IITDelhi,CIVIL 2 14
+IITDelhi,BIOTECH 2 15
+IITDelhi,AIDS 2 16 
+NITTrichy,CSE 2 17
+NITTrichy,MECH 2 18
+NITTrichy,CIVIL 2 19
+NITTrichy,AIDS 2 20
+NITWarangal,CSE 2 21
+NITWarangal,IT 2 22
+NITWarangal,ECE 2 23
+NITWarangal,EEE 2 24
+NITNagpur,BIOTECH 2 25
+NITNagpur,IT 2 26
+NITNagpur,ECE 2 27
+NITNagpur,EEE 2 28
+
+
